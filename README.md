@@ -34,3 +34,37 @@ To find information about movies *Firi* uses omdbAPI.
 
 *Firi* is rather easy to use. As of now there are only four basic commands.
 
+For spotify simply type *node firi.js spotify* **your search**
+as shown below.
+
+![spotify call](/ReadMeImages/Spotifysc.png)
+
+
+
+For concerts type *node firi.js concert* **your search**
+as shown in the picture.
+
+![concert call](/ReadMeImages/concertsc.png)
+
+
+
+If youre trying to find info ona movie type *node firi.js movie* **your search**
+as deminstrated in the picture.
+
+![movie call](/ReadMeImages/moviesc.png)
+
+
+
+And just to try it out there is an extra function "read" which can be used tryping
+*node firi.js read*. This is used to read the text in a file and make a call.
+
+![read call](/ReadMeImages/readsc.png)
+
+______________________________________________________________________________________
+
+
+Now you too can aquire this information using *Firi*.
+
+**Please npm install before using or else it will not work**
+
+Thank you!
